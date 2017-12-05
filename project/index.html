@@ -1,0 +1,198 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>StockMantra.com</title>
+		<link rel="icon" href="images/logo.ico" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<script src="assets/js/jquery.js"></script>
+		<script src="assets/js/stock.js"></script>
+		<script>
+			$("document").ready(init);
+		</script>
+	</head>
+	<body class="homepage"  onload="init()">
+		<div id="page-wrapper">
+
+				<div id="header">
+
+						<div class="inner">
+							<header>
+								<h1><a href="index.html" id="logo"><span>Stock</span> Mantra</a></h1>
+								<hr />
+								<p style="color:#4d9900">
+									<marquee direction=right behavior=alternate scrollamount=5>
+										Your money, <span style="color:#ff0000">Play it safe !</span>
+									</marquee></p>
+							</header>
+							<footer>
+								<a href="#banner" class="button circled scrolly">Start</a>
+							</footer>
+						</div>
+						<nav id="nav">
+							<ul>
+								<li><a href="index.html">Home</a></li>
+								<li><a href="news.html">News</a></li>
+								<li><a href="livestocks.html">Live Stocks</a></li>
+								<li><a href="trade.html">Trade Stocks</a></li>
+                                </ul>
+                        </nav>
+				</div>
+				<section id="banner">
+					<header>
+						<h2>Tap into the Pulse of the Markets</h2><br />
+						<p>Quickly catch up on what is happening with the stocks you own and what everyone is talking about today !</p>
+					</header>
+				</section>
+
+			<section class="carousel">
+				<h2 id="news">Business News</h2>
+					<div class="reel">
+						<article>
+							<a href="News/Indian Stocks.html" class="image featured"><img src="images/Indian Stocks.jpg" alt="" /></a>
+							<header>
+								<h3><a href="News/Indian Stocks.html">Indian stocks extend gains</h3>
+							</header>
+							<p>Indian Shares headed towards second session of mild gains</p></a>
+							</article>
+
+						<article>
+							<a href="News/Tata Motors.html" class="image featured"><img src="images/Tata Motors.jpg" alt="" /></a>
+							<header>
+								<h3><a href="News/Tata Motors.html">Tata Motors in loss</h3>
+							</header>
+							<p>Tata Motors posted a huge loss as Tianjin Port blast hits JLR</p></a>
+						</article>
+
+						<article>
+							<a href="News/Winter Stocks.html" class="image featured"><img src="images/Winter.jpg" alt="" /></a>
+							<header>
+								<h3><a href="News/Winter Stocks.html">Winter stocks forecast</h3>
+							</header>
+							<p>A chance of a stock market spike, Stay tuned for updates </p></a>
+						</article>
+
+						<article>
+							<a href="News/Gold.html" class="image featured"><img src="images/Gold.jpg" alt="" /></a>
+							<header>
+								<h3><a href="News/Gold.html">Gold price plunges</h3>
+							</header>
+							<p>Elliott Wave analysis suggests more losses to come</p></a>
+						</article>
+
+						<article>
+							<a href="News/Dollar.html" class="image featured"><img src="images/Dollar.jpg" alt="" /></a>
+							<header>
+								<h3><a href="News/Dollar.html">US dollar goes high</h3>
+							</header>
+							<p>Experts ask Is this momentum guaranteed?</p></a>
+						</article>
+
+						<article>
+							<a href="News/Bihar.html" class="image featured"><img src="images/Bihar.jpg" alt="" /></a>
+							<header>
+								<h3><a href="News/Bihar.html">Bihar Elections</h3>
+							</header>
+							<p>Bihar poll results may turn stock markets volatile</p></a>
+						</article>
+
+						<article>
+							<a href="News/Market.html" class="image featured"><img src="images/Market.jpg" alt="" /></a>
+							<header>
+								<h3><a href="News/Market.html">Tumbling stock prices</h3>
+							</header>
+							<p>Market investors poorer by Rs 4.4 lakh cr so far this fiscal</p></a>
+						</article>
+
+						<article>
+							<a href="News/Taiwan.html" class="image featured"><img src="images/Taiwan.jpg" alt="" /></a>
+							<header>
+								<h3><a href="News/Taiwan.html">Taiwan stocks rise</h3>
+							</header>
+							<p>After the historic meeting between Ma Ying-jeou and Xi Jinping</p></a>
+						</article>
+
+						<article>
+							<a href="News/Wallstreet.html" class="image featured"><img src="images/Wallstreet.jpg" alt="" /></a>
+							<header>
+								<h3><a href="News/Wallstreet.html">Weakened prices</h3>
+							</header>
+							<p>Asia wobbles after wall street hit by crude slump</p></a>
+						</article>
+
+						<article>
+							<a href="News/Oil.html" class="image featured"><img src="images/Oil.jpg" alt="" /></a>
+							<header>
+								<h3><a href="News/Oil.html">Oil prices remain low</a></h3>
+							</header>
+							<p>The supplies still far outstrip the demand</p>
+						</article>
+					</div>
+				</section>
+				</div>
+
+				<div class="wrapper style1">
+
+					<section id="stocks" class="container special">
+						<header>
+							<h2>Market Insights</h2>
+							<p>Check our Realtime Insights before you make your next investment.</p>
+						</header>
+						<div class="row">
+							<article id="stock1" class="4u 12u(mobile) special">
+								<canvas id="nifty" width="350px" height="260px"></canvas>
+                            </article>
+							<article class="4u 12u(mobile) special">
+								<canvas id="sensex" width="350px" height="260px"></canvas>
+							</article>
+							<article class="4u 12u(mobile) special">
+								<canvas id="dax" width="350px" height="260px"></canvas>
+							</article>
+						</div>
+					</section>
+
+				</div>
+
+				<div id="footer">
+					<div class="container">
+						<div class="row">
+							<div class="12u">
+									<section class="contact">
+										<header>
+											<h3>Have any Questions ?</h3>
+										</header>
+										<p><a href="contact.html">Contact Us</a></p>
+										<ul class="icons">
+											<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+											<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+											<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+											<li><a href="#" class="icon fa-pinterest"><span class="label">Pinterest</span></a></li>
+											<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
+											<li><a href="#" class="icon fa-linkedin"><span class="label">Linkedin</span></a></li>
+										</ul>
+									</section>
+
+									<div class="copyright">
+										<ul class="menu">
+											<li><a href="index.html">StockMantra </a>&copy; 2015. All rights reserved.</li>
+										</ul>
+									</div>
+
+							</div>
+
+						</div>
+					</div>
+				</div>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.onvisible.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

@@ -1,0 +1,110 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>StockMantra</title>
+		<link rel="icon" href="images/logo.ico" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+        <script src="assets/js/jquery.js"></script>
+		<script>
+            $("document").ready(init);
+			function init()
+			{
+				ev = new EventSource("stocks.php");
+				ev.addEventListener("all_stocks", update, false);
+			}
+
+			function update(obj)
+			{
+				stockobj = JSON.parse(obj.data);
+                names = ["GOOGLE", "APPLE", "YES BANK", "RELIANCE", "MARUTI", "INFOSYS", "TCS"];
+				console.log(stockobj);
+				ele = document.getElementById("finance");
+               for(i=0;i<7;i++)
+                {
+                    ele.childNodes[3].childNodes[3].childNodes[2*i].childNodes[1].innerHTML = stockobj[names[i]];
+                }
+				
+			}
+		</script>
+	</head>
+	<body class="no-sidebar" style="background-color:black; color:white;">
+		<div id="page-wrapper">
+				<div id="header">
+						<div class="inner">
+							<header>
+								<h1><a href="index.html" id="logo" style="color:white;">Stock Mantra</a></h1>
+							</header>
+						</div>
+						<nav id="nav">
+							<ul>
+								<li><a href="index.html">Home</a></li>
+								<li><a href="news.html">News</a></li>
+								<li><a href="livestocks.html">Live Stocks</a></li>
+								<li><a href="trade.html">Trade Stocks</a></li>
+                                </ul>
+                        </nav>
+				</div>
+
+			<!-- Main -->
+			<div id="finance">
+				<h1>Finance</h1>
+				<table>
+				<thead>
+					<th style="width:50%">Company</th>
+					<th style="width:50%">Price</th>
+				</thead>
+                <tr><td>GOOGLE</td><td>Loading</td></tr>
+                <tr><td>APPLE</td><td>Loading</td></tr>
+                <tr><td>YES BANK</td><td>Loading</td></tr>
+                <tr><td>RELIANCE</td><td>Loading</td></tr>
+                <tr><td>MARUTI</td><td>Loading</td></tr>
+                <tr><td>INFOSYS</td><td>Loading</td></tr>
+                <tr><td>TCS</td><td>Loading</td></tr>
+				</table>
+			</div>
+			<!-- Footer -->
+				<div id="footer">
+					<div class="container">
+						<div class="row">
+							<div class="12u">
+									<section class="contact">
+										<header>
+											<h3>Have any Questions ?</h3>
+										</header>
+										<p><a href="contact.html">Contact Us</a></p>
+										<ul class="icons">
+											<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+											<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+											<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+											<li><a href="#" class="icon fa-pinterest"><span class="label">Pinterest</span></a></li>
+											<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
+											<li><a href="#" class="icon fa-linkedin"><span class="label">Linkedin</span></a></li>
+										</ul>
+									</section>
+
+									<div class="copyright">
+										<ul class="menu">
+											<li><a href="index.html">StockMantra </a>&copy; 2015. All rights reserved.</li>
+										</ul>
+									</div>
+
+							</div>
+
+						</div>
+					</div>
+				</div>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.onvisible.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

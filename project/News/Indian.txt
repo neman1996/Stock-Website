@@ -1,0 +1,93 @@
+<div class="container">
+						<div class="row 200%">
+							<div class="4u 12u(mobile)" id="sidebar">
+								<section>
+									<header>
+										<h3><a href="../news.html"></b><h3>News</h3></b></a></h3>
+									</header>
+									
+									<div class="row 50%">
+										<div class="4u">
+											<a href="Tata Motors.html" class="image fit"><img src="../images/Tata Motors.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Tata Motors.html"><h4>Tata Motors Q2 loss of Rs 430cr</h4>
+											<p>
+												Tata Motors posted a huge loss as Tianjin Port blast hits JLR
+											</p></a>
+										</div>
+									</div>
+									<div class="row 50%">
+										<div class="4u">
+											<a href="Winter Stocks.html" class="image fit"><img src="../images/Winter.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Winter Stocks.html"><h4>Winter stocks forecast</h4>
+											<p>
+												A chance of a stock market spike
+											</p></a>
+										</div>
+									</div>
+									<div class="row 50%">
+										<div class="4u">
+											<a href="Gold.html" class="image fit"><img src="../images/Gold.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Gold.html"><h4>Gold price plunges towards 5 year lows</h4>
+											<p>
+												Elliott Wave analysis suggests more losses to come
+											</p></a>
+										</div>
+									</div>
+									<div class="row 50%">
+										<div class="4u">
+											<a href="Dollar.html" class="image fit"><img src="../images/Dollar.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Dollar.html"><h4>US dollar breaks a 12-year high</h4>
+											<p>
+												But is this momentum guaranteed?
+											</p></a>
+										</div>
+									</div>
+									<div class="row 50% no-collapse">
+										<div class="4u">
+											<a href="Bihar.html" class="image fit"><img src="../images/Bihar.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Bihar.html"><h4>Bihar poll results may turn stock markets volatile</h4>
+											<p>
+												Experts predict a knee-jerk downward move very soon
+											</p></a>
+										</div>
+									</div>
+									<footer>
+										<a href="../news.html" class="button" style="width: 100px">Read More</a>
+									</footer>
+								</section>
+							</div>
+							<div class="8u 12u(mobile) important(mobile)" id="content">
+								<article id="main">
+									<header>
+										<h2><a href="#">Indian stocks extend gains</a></h2>
+										<h3>Indian Shares headed towards second session of mild gains.</h3>
+									</header>
+									<a href="#" class="image featured"><img src="../images/Indian Stocks.jpg" alt="" height=300px/></a>
+									<p>
+										<b>MUMBAI, Nov 4</b> - Indian shares headed for a second consecutive session of mild gains on Wednesday tracking higher global shares, while auto makers surged after Tata Motors reported strong October sales, but foreign sales capped broader gains.
+									</p>
+									<p>U.S. shares climbed for a fifth consecutive day on Tuesday, boosted by energy shares, pushing up Asian shares.</p>
+									<p>Meanwhile, Tata Motors jumped 6.5 percent, hitting its highest intra-day level since July 13, driven by strong Jaguar Land Rover sales in North America in October.</p>
+									<p>But broader gains were capped, as foreign investors sold about 4.5 billion rupees ($68.73 million) worth of shares on Tuesday and have been net sellers, selling Indian shares in four out of the past seven sessions.</p>
+									<p>"Data from the U.S. was supporting market in the opening session and the market had already entered into the oversold region yesterday," Alex Mathews, head of research at Geojit BNP Paribas, said.</p>
+									<p>The benchmark BSE index was trading up 0.48 percent after earlier gaining as much as 0.79 percent earlier in the session. The broader NSE index was up 0.33 percent.</p>
+									<p>Shares in DLF gained as much as 4.77 percent after India's Supreme Court rejected the market regulator's plea to prevent DLF from selling stake in its rental arm.</p>
+									<p>The ruling came a day after India's biggest listed property developer posted a 21 percent jump in quarterly profit on lower costs even as home sales are slow to pick up in a recovering economy.</p>
+									<p>Shares in Nestle India rose as much as 4 percent after the company said samples of its noodle snack Maggi have been cleared by three laboratories. </P>
+
+							</article>
+							</div>
+						</div>
+						<hr />
+						
+					</div>

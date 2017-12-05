@@ -1,0 +1,91 @@
+<div class="container">
+						<div class="row 200%">
+							<div class="4u 12u(mobile)" id="sidebar">
+								<section>
+									<header>
+										<h3><a href="../news.html"></b><h3>News</h3></b></a></h3>
+									</header>
+									<div class="row 50%">
+										<div class="4u">
+											<a href="Indian Stocks.html" class="image fit"><img src="../images/Indian Stocks.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Indian Stocks.html"><h4>Indian stocks extend gains</h4>
+											<p>
+												Indian Shares headed towards second session of mild gains
+											</p></a>
+										</div>
+									</div>
+									<div class="row 50%">
+										<div class="4u">
+											<a href="Tata Motors.html" class="image fit"><img src="../images/Tata Motors.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Tata Motors.html"><h4>Tata Motors Q2 loss of Rs 430cr</h4>
+											<p>
+												Tata Motors posted a huge loss as Tianjin Port blast hits JLR
+											</p></a>
+										</div>
+									</div>
+									<div class="row 50%">
+										<div class="4u">
+											<a href="Winter Stocks.html" class="image fit"><img src="../images/Winter.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Winter Stocks.html"><h4>Winter stocks forecast</h4>
+											<p>
+												A chance of a stock market spike
+											</p></a>
+										</div>
+									</div>
+									<div class="row 50%">
+										<div class="4u">
+											<a href="Gold.html" class="image fit"><img src="../images/Gold.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Gold.html"><h4>Gold price plunges towards 5 year lows</h4>
+											<p>
+												Elliott Wave analysis suggests more losses to come
+											</p></a>
+										</div>
+									</div>
+									<div class="row 50% no-collapse">
+										<div class="4u">
+											<a href="Dollar.html" class="image fit"><img src="../images/Dollar.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+										<a href="Dollar.html"><h4>US dollar breaks a 12-year high</h4>
+											<p>
+												But is this momentum guaranteed?
+											</p></a>
+										</div>
+									</div>
+									<footer>
+										<a href="../news.html" class="button" style="width: 100px">Read More</a>
+									</footer>
+								</section>
+							</div>
+							<div class="8u 12u(mobile) important(mobile)" id="content">
+								<article id="main">
+									<header>
+										<h2><a href="#">Asia wobbles after wall street hit by crude slump</a></h2>
+										<p>
+											Prices of other commodities also weakened
+										</p>
+									</header>
+									<a href="#" class="image featured"><img src="../images/Wallstreet.jpg" height=300px alt="" /></a>
+									<p><b>Tokyo:</b> Asian shares got off to a tentative start on Thursday, after Wall Street ended a choppy session lower as a sharp drop in oil prices knocked energy stocks.</p>
+									<p>US crude futures steadied in Asia after tumbling 3 percent overnight on worries about higher crude inventories. They were last up about 0.4 percent at $43.09 a barrel after wallowing at their lowest levels since August.</p>
+									<p>Prices of other commodities also weakened after the previous session's downbeat Chinese industrial output data, which continued to pressure shares in resource-rich Australia. The S&P/ASX 200 index was down 0.6 percent.Japan's Nikkei stock index was down 0.2 per cent.</p>
+									<p>Data released before the market opened showed Japan's core machinery orders rose 7.5 percent in September, marking the first increase in four months, though orders were down sharply in the third quarter. MSCI's broadest index of Asia-Pacific shares outside Japan was slightly down in early trading.</p>
+									<p>The US bond market was closed for Veterans Day on Wednesday, and while other markets were trading, activity was lighter than usual.</p>
+									<p>With no directional guidance from US Treasuries, some investors took profits after the dollar's recent rise in the wake of last Friday's stellar US employment report that led many to increase their bets that the Federal Reserve was on track to hike interest rates at its meeting next month.</p>
+									<p>US data will be increasingly important to markets ahead of the Fed's December policy review. "Friday's U.S. retail sales report is important for the dollar but unless spending contracts sharply, it will not alter the market's expectations for Fed policy," said Kathy Lien, director of FX strategy for BK Asset Management.</p>
+									<p>The dollar index, which tracks the greenback against a basket of six major peers, was steady at 98.829, below a seven-month peak of 99.504 scaled on Tuesday.</p>
+									<p>The dollar edged down to 122.81, below this week's 2-1/2-month high of 123.60, while the euro added about 0.1 percent to $1.0758, recovering from this week's nearly seven-month low of $1.0674.</p>
+								</article>
+							</div>
+						</div>
+						<hr />
+						
+					</div>

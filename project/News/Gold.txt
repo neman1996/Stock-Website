@@ -1,0 +1,87 @@
+<div class="container">
+						<div class="row 200%">
+							<div class="4u 12u(mobile)" id="sidebar">
+								<section>
+									<header>
+										<h3><a href="../news.html"></b><h3>News</h3></b></a></h3>
+									</header>
+									
+									<div class="row 50%">
+										<div class="4u">
+											<a href="Indian Stocks.html" class="image fit"><img src="../images/Indian Stocks.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Indian Stocks.html"><h4>Indian stocks extend gains</h4>
+											<p>
+												Indian Shares headed towards second session of mild gains
+											</p></a>
+										</div>
+									</div>
+									<div class="row 50%">
+										<div class="4u">
+											<a href="Tata Motors.html" class="image fit"><img src="../images/Tata Motors.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Tata Motors.html"><h4>Tata Motors Q2 loss of Rs 430cr</h4>
+											<p>
+												Tata Motors posted a huge loss as Tianjin Port blast hits JLR
+											</p></a>
+										</div>
+									</div>
+									<div class="row 50%">
+										<div class="4u">
+											<a href="Winter Stocks.html" class="image fit"><img src="../images/Winter.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Winter Stocks.html"><h4>Winter stocks forecast</h4>
+											<p>
+												A chance of a stock market spike
+											</p></a>
+										</div>
+									</div>
+									<div class="row 50%">
+										<div class="4u">
+											<a href="Dollar.html" class="image fit"><img src="../images/Dollar.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Dollar.html"></a><h4>US dollar breaks a 12-year high</h4>
+											<p>
+												But is this momentum guaranteed?
+											</p></a>
+										</div>
+									</div>
+									<div class="row 50% no-collapse">
+										<div class="4u">
+											<a href="Bihar.html" class="image fit"><img src="../images/Bihar.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Bihar.html"><h4>Bihar poll results may turn stock markets volatile</h4>
+											<p>
+												Experts predict a knee-jerk downward move very soon
+											</p></a>
+										</div>
+									</div>
+									<footer>
+										<a href="../news.html" class="button" style="width: 100px">Read More</a>
+									</footer>
+								</section>
+							</div>
+							<div class="8u 12u(mobile) important(mobile)" id="content">
+								<article id="main">
+									<header>
+										<h2><a href="#">Gold price plunges towards 5 year lows</a></h2>
+											<h3>Elliott Wave analysis suggests more losses to come</h3>
+									</header>
+									<a href="#" class="image featured"><img src="../images/Gold.jpg" height=200px alt="" /></a>
+									<p>The gold price could be set to return to the five-year lows of this summer, as markets await a US jobs report later this afternoon that will give further clues on whether the Federal Reserve will increase interest rates next month.</p>
+									<p>Last week, the US central bank published its latest decision to hold rates following a vote at its October meeting, but struck a more hawkish tone by failing to allude to the risks to the global economy and talking up the possibility of domestic demand and employment growth. Gold, which tends to fall as rates rise because it becomes less attractive relative to income-generating assets, fell sharply as a result.</p>
+									<p>This week, the Federal Reserve chairwoman Janet Yellen gave an even stronger hint that rates could rise next month, telling a congressional committee that domestic signs were positive and explicitly stating an increase next month was "in play". After six straight losing sessions, gold plummeted to $1,107 an ounce on Wednesday, six per cent below where it had been before the rates announcement.</p>
+									<p>The gold price hit a low of $1,085 in August. The Fed has said it is watching jobs data closely to determine its December decision, making a non-farms payroll report due this afternoon critical. If this proves to be positive, as the market expects, gold is likely to fall sharply again and could re-test this low. The price is currently steady at below $1,108.</p>
+									<p>Expectations are for the data today to show the US added 179,000 jobs last month, up from 142,000 in September, and for the unemployment rate to be unchanged at 5.1 percent. If this forecast is beaten – or even just met – then gold is likely to fall. If the data comes in low this could prompt a rise, but the feeling is the miss would have to be wide.</p>
+									<p>Tom Kendall at ICBC Standard Bank told the Bullion Desk that upward revisions "could open a trap door at $1,100 for gold". He said a "data disappointment would have to be sizeable to get the metal back over $1,135 in the short term.</p>
+								</article>
+							</div>
+						</div>
+						<hr />
+						
+					</div>

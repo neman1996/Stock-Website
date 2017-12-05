@@ -1,0 +1,88 @@
+<div class="container">
+						<div class="row 200%">
+							<div class="4u 12u(mobile)" id="sidebar">
+								<section>
+									<header>
+										<h3><a href="../news.html"></b><h3>News</h3></b></a></h3>
+									</header>
+									
+									<div class="row 50%">
+										<div class="4u">
+											<a href="Indian Stocks.html" class="image fit"><img src="../images/Indian Stocks.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Indian Stocks.html"><h4>Indian stocks extend gains</h4>
+											<p>
+												Indian Shares headed towards second session of mild gains
+											</p></a>
+										</div>
+									</div>
+									<div class="row 50%">
+										<div class="4u">
+											<a href="Tata Motors.html" class="image fit"><img src="../images/Tata Motors.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Tata Motors.html"><h4>Tata Motors Q2 loss of Rs 430cr</h4>
+											<p>
+												Tata Motors posted a huge loss as Tianjin Port blast hits JLR
+											</p></a>
+										</div>
+									</div>
+									<div class="row 50%">
+										<div class="4u">
+											<a href="Gold.html" class="image fit"><img src="../images/Gold.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Gold.html"><h4>Gold price plunges towards 5 year lows</h4>
+											<p>
+												Elliott Wave analysis suggests more losses to come
+											</p></a>
+										</div>
+									</div>
+									<div class="row 50%">
+										<div class="4u">
+											<a href="Dollar.html" class="image fit"><img src="../images/Dollar.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Dollar.html"><h4>US dollar breaks a 12-year high</h4>
+											<p>
+												But is this momentum guaranteed?
+											</p></a>
+										</div>
+									</div>
+									<div class="row 50% no-collapse">
+										<div class="4u">
+											<a href="Bihar.html" class="image fit"><img src="../images/Bihar.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Bihar.html"><h4>Bihar poll results may turn stock markets volatile</h4>
+											<p>
+												Experts predict a knee-jerk downward move very soon
+											</p></a>
+										</div>
+									</div>
+									<footer>
+										<a href="../news.html" class="button" style="width: 100px">Read More</a>
+									</footer>
+								</section>
+							</div>
+							<div class="8u 12u(mobile) important(mobile)" id="content">
+								<article id="main">
+									<header>
+										<h2><a href="#">Winter stocks forecast</a></h2>
+										<p>
+											A chance of a stock market spike
+										</p>
+									</header>
+									<a href="#" class="image featured"><img src="../images/Winter.jpg" height=200px alt="" /></a>
+									<p>Chinese stocks are back in bull market territory and the U.S. market, hit earlier this summer by China’s woes, is finally positive for the year. But the good news may be short-lived. </p>
+									<p>Peter Cardillo, chief market economist at Rockwell Global Capital, predicts U.S. stocks will hit record highs by the end of this year but face a big correction in 2016, "probably towards the latter part of the year.”</p>
+									<p>Concerns about China’s growth played a large role in the U.S. stock market’s dip into a correction earlier this year. From its highs in May, the S&P 500 (^GSPC) tumbled more than 11% by late August. Meanwhile, the Shanghai Composite index (00001.SS) dropped 29% during that time, erasing its large gains for the year. Both indices are now positive for 2015.</p>
+									<p>“It just simply means that we’ll probably have less worries,” said Cardillo of China’s effects on the U.S. markets, adding that he sees China’s growth rate stabilizing to a range between 6% and 7%, lower than the frequent double-digit annual growth rates just a few years before.</p>
+									<p>“From an emerging market, it's now graduating into a more stable industrial market,” Cardillo said.But he doesn’t see the world as being out of the woods yet and Cardillo anticipates the Fed will hold off on raising interesting rates. “I think we're looking in the first quarter of 2016. And the reason why I say that is because there are still some problems out there. And the major problem is the recovery in Europe is weak". He expects that a delay in a rate hike will lead to a short-term rally in in the S&P 500 “We're looking at new record highs,” Cardillo predicted. “Close to maybe 2275 to 2300 is a possibility.” However, he anticipates that the party will be short lived as he expects the Fed will raise the fed funds rate from near 0% to 1.5%.</p>	
+								</article>
+							</div>
+						</div>
+						<hr />
+						
+					</div>

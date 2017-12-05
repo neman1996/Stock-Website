@@ -1,0 +1,92 @@
+<div class="container">
+						<div class="row 200%">
+							<div class="4u 12u(mobile)" id="sidebar">
+								<section>
+									<header>
+										<h3><a href="../news.html"></b><h3>News</h3></b></a></h3>
+									</header>
+									<div class="row 50%">
+										<div class="4u">
+											<a href="Indian Stocks.html" class="image fit"><img src="../images/Indian Stocks.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Indian Stocks.html"><h4>Indian stocks extend gains</h4>
+											<p>
+												Indian Shares headed towards second session of mild gains
+											</p></a>
+										</div>
+									</div>
+									<div class="row 50%">
+										<div class="4u">
+											<a href="Tata Motors.html" class="image fit"><img src="../images/Tata Motors.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Tata Motors.html"><h4>Tata Motors Q2 loss of Rs 430cr</h4>
+											<p>
+												Tata Motors posted a huge loss as Tianjin Port blast hits JLR
+											</p></a>
+										</div>
+									</div>
+									<div class="row 50%">
+										<div class="4u">
+											<a href="Winter Stocks.html" class="image fit"><img src="../images/Winter.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Winter Stocks.html"><h4>Winter stocks forecast</h4>
+											<p>
+												A chance of a stock market spike
+											</p></a>
+										</div>
+									</div>
+									<div class="row 50%">
+										<div class="4u">
+											<a href="Gold.html" class="image fit"><img src="../images/Gold.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Gold.html"><h4>Gold price plunges towards 5 year lows</h4>
+											<p>
+												Elliott Wave analysis suggests more losses to come
+											</p></a>
+										</div>
+									</div>
+									<div class="row 50% no-collapse">
+										<div class="4u">
+											<a href="Dollar.html" class="image fit"><img src="../images/Dollar.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Dollar.html"><h4>US dollar breaks a 12-year high</h4>
+											<p>
+												But is this momentum guaranteed?
+											</p></a>
+										</div>
+									</div>
+									<footer>
+										<a href="../news.html" class="button" style="width: 100px">Read More</a>
+									</footer>
+								</section>
+							</div>
+							<div class="8u 12u(mobile) important(mobile)" id="content">
+								<article id="main">
+									<header>
+										<h2><a href="#">Market investors poorer by Rs 4.4 lakh cr so far this fiscal</a></h2>
+										<p>
+											This is due to the tumbling stock prices
+										</p>
+									</header>
+									<a href="#" class="image featured"><img src="../images/Market.jpg" height=400px alt="" /></a>
+									<p><b>NEW DELHI:</b> Stock market investors have taken a hit of around Rs 4.4 lakh crore this fiscal due to tumbling stock prices amid global growth worries and muted earnings of domestic firms. </p>
+									<p>As of yesterday, the benchmark BSE Sensex has fallen by 2,090.54 points or 7.47 per cent to 25,866.95 this fiscal. During the period, the gauge had touched a one-year low of 24,833.54 on September 8. </p>
+									<p>Led by the sharp decline in stock market, total investor wealth, measured in terms of cumulative market value of all listed stocks, tanked by Rs 4,45,395 crore to Rs 97,03,605 crore. </p>
+									<p>Total market capitalisation of BSE listed firms stood at Rs 101.49 lakh crore on March 31. Markets have been highly volatile in the past couple of quarters on weak corporate earnings and negative global cues, including devaluation of the Chinese currency and economic slowdown. </p>
+									<p>The recent announcement by the US Fed Chair Janet Yellen that a December rate hike is very much on the table as the economy has performed well, has also hit the market mood in the country. </p>
+
+									<p>Sensex crashed by 1,624.51 points on August 24 -- its biggest single-day fall -- wiping out over Rs 7 lakh crore from investors' wealth on a sharp global sell-off triggered by the Chinese slowdown. </p>
+									<p>"One can really gauge the sentiments regarding the underground reality and status of the ongoing reform process from the market movements," Equity Research Ashika Stock Broking Limited VP, Paras Bothra said. </p>
+
+									<p>"With uncertainties around Bihar elections and second quarter of the financial year 2016 results largely behind us, we expect Indian equities to consolidate at current levels," ICICI Securities report said. </p>
+								</article>
+							</div>
+						</div>
+						<hr />
+						
+					</div>

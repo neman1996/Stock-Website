@@ -1,0 +1,91 @@
+<div class="container">
+						<div class="row 200%">
+							<div class="4u 12u(mobile)" id="sidebar">
+								<section>
+									<header>
+										<h3><a href="#"></b><h3>News</h3></b></a></h3>
+									</header>
+									
+									<div class="row 50%">
+										<div class="4u">
+											<a href="Indian Stocks.html" class="image fit"><img src="../images/Indian Stocks.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Indian Stocks.html"><h4>Indian stocks extend gains</h4>
+											<p>
+												Indian Shares headed towards second session of mild gains
+											</p></a>
+										</div>
+									</div>
+									<div class="row 50%">
+										<div class="4u">
+											<a href="Winter Stocks.html" class="image fit"><img src="../images/Winter.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Winter Stocks.html"><h4>Winter stocks forecast</h4>
+											<p>
+												A chance of a stock market spike
+											</p></a>
+										</div>
+									</div>
+									<div class="row 50%">
+										<div class="4u">
+											<a href="Gold.html" class="image fit"><img src="../images/Gold.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Gold.html"><h4>Gold price plunges towards 5 year lows</h4>
+											<p>
+												Elliott Wave analysis suggests more losses to come
+											</p></a>
+										</div>
+									</div>
+									<div class="row 50%">
+										<div class="4u">
+											<a href="Dollar.html" class="image fit"><img src="../images/Dollar.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Dollar.html"><h4>US dollar breaks a 12-year high</h4>
+											<p>
+												But is this momentum guaranteed?
+											</p></a>
+										</div>
+									</div>
+									<div class="row 50% no-collapse">
+										<div class="4u">
+											<a href="Bihar.html" class="image fit"><img src="../images/Bihar.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Bihar.html" ><h4>Bihar poll results may turn stock markets volatile</h4>
+											<p>
+												Experts predict a knee-jerk downward move very soon
+											</p></a>
+										</div>
+									</div>
+									<footer>
+										<a href="../news.html" class="button" style="width: 100px">Read More</a>
+									</footer>
+								</section>
+							</div>
+							<div class="8u 12u(mobile) important(mobile)" id="content">
+								<article id="main">
+									<header>
+										<h2><a href="#">Tata Motors Q2 loss of Rs 430cr</a></h2>
+										<h3>Tata Motors posted a huge loss as Tianjin Port blast hits JLR</h3>
+									</header>
+									<a href="" class="image featured"><img src="../images/Tata Motors.jpg" alt="" height=200px /></a>
+									<p>
+										Tata Motors has posted a loss of Rs 430 crore during July-September quarter against profit of Rs 3,290.8 crore in year-ago period, hit by Jaguar Land Rover cars damaged in Tianjin Port explosion and finance cost.</p>
+									<p>The commercial vehicle and luxury car maker has reported an exceptional cost of Rs 2,652.92 during the quarter, including a charge of Rs 2,493 crore (which was one-time hit) on account of 5,800 vehicles damaged at Tianjin Port explosion in Jaguar Land Rover business. It also included forex loss of Rs 114 crore for the quarter against gain of Rs 26.5 crore in year-ago period.</p>
+									<p>Weaker China sales and mix, foreign exchange revaluation and higher depreciation & amortisation expenses in Jaguar Land Rover business also hit bottomline during the quarter. </p>
+									<p>Consolidated revenue increased 1.1 percent to Rs 61,318 crore during the quarter compared to Rs 60,641 crore in corresponding quarter last year, supported by strong JLR sales in UK, Europe & US and robust growth in medium & heavy commercial vehicles.</p>
+									<p>"Revenue was boosted by strong sales in UK, Europe and North America which helped in offsetting weaker sales in China and other emerging markets in Jaguar Land Rover business; and continued robust growth (35.3 percent year-on-year) in MHICV segment in standalone business," the company says in its filing.</p>
+									<p>Tata Motors disappointed street on every parameter as analysts polled by CNBC-TV18 had expected consolidated profit of Rs 2,554 crore for the quarter on revenue of Rs 62,000 crore for the quarter and operating profit of Rs 9,400 crore and margin contraction of 110 basis points.</p>
+									<p>Operating profit (earnings before interest, tax, depreciation and amortisation) was down 28 percent year-on-year to Rs 6,881 crore and margin contracted by 460 basis points to 11.2 percent in July-September quarter, impacted by other expenses that increased 23 percent to Rs 13,495 crore Y-o-Y.</p>
+									<p>Raw material cost for the quarter was down 5 percent to Rs 33,316.7 crore and finance cost climbed 24.7 percent to Rs 1,159.4 crore (despite fall in debt) while other income was up 12.5 percent to Rs 245.2 crore compared to year-ago period.</p>
+									<p>Long term borrowings (debt) fell 4.9 percent to Rs 53,306 crore at the end of September quarter against Rs 56,071 crore in March quarter. The company has received tax refund of Rs 703.6 crore during the quarter against expenses of Rs 2,364 crore in corresponding quarter of last fiscal.</p>
+								</article>
+							</div>
+						</div>
+						<hr />
+						
+					</div>

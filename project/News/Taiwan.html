@@ -1,0 +1,98 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Taiwan: StockMarket</title>
+		<link rel="stylesheet" href="../assets/css/main.css" />
+		<script>
+			xhr = null;
+		function init()
+		{
+			xhr = new XMLHttpRequest();
+			xhr.open("GET","http://localhost/project/newsrender.php?news=Taiwan");
+			xhr.send()
+			xhr.onreadystatechange = update;
+		}
+
+		function update()
+		{
+			if(xhr.status == 200 && xhr.readyState == 4)
+			{
+				document.getElementById("newsdiv").innerHTML = xhr.responseText;
+			}
+		}
+		</script>
+	</head>
+	<body class="left-sidebar" onload="init()">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<div id="header">
+
+					<!-- Inner -->
+						<div class="inner">
+							<header>
+								<h1><a href="../index.html" id="logo" style="color:white;">Stock Mantra</a></h1>
+							</header>
+						</div>
+
+					<!-- Nav -->
+						<<nav id="nav">
+							<ul>
+								<li><a href="../index.html">Home</a></li>
+								<li><a href="../news.html">News</a></li>
+								<li><a href="../livestocks.html">Live Stocks</a></li>
+								<li><a href="../trade.html">Trade Stocks</a></li>
+                                </ul>
+                        </nav>
+
+				</div>
+
+			<!-- Main -->
+				<div class="wrapper style1" id="newsdiv"></div>
+
+			<!-- Footer -->
+				<div id="footer">
+					<div class="container">
+						<div class="row">
+							<div class="12u">
+									<section class="contact">
+										<header>
+											<h3>Have any Questions ?</h3>
+										</header>
+										<p><a href="../contact.html">Contact Us</a></p>
+										<ul class="icons">
+											<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+											<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+											<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+											<li><a href="#" class="icon fa-pinterest"><span class="label">Pinterest</span></a></li>
+											<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
+											<li><a href="#" class="icon fa-linkedin"><span class="label">Linkedin</span></a></li>
+										</ul>
+									</section>
+
+									<div class="copyright">
+										<ul class="menu">
+											<li><a href="../index.html">StockMantra </a>&copy; 2015. All rights reserved.</li>
+										</ul>
+									</div>
+
+							</div>
+
+						</div>
+					</div>
+				</div>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="../assets/js/jquery.min.js"></script>
+			<script src="../assets/js/jquery.dropotron.min.js"></script>
+			<script src="../assets/js/jquery.scrolly.min.js"></script>
+			<script src="../assets/js/jquery.onvisible.min.js"></script>
+			<script src="../assets/js/skel.min.js"></script>
+			<script src="../assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="../assets/js/main.js"></script>
+
+	</body>
+</html>

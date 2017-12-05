@@ -1,0 +1,87 @@
+<div class="container">
+						<div class="row 200%">
+							<div class="4u 12u(mobile)" id="sidebar">
+								<section>
+									<header>
+										<h3><a href="../news.html"></b><h3>News</h3></b></a></h3>
+									</header>
+								
+									<div class="row 50%">
+										<div class="4u">
+											<a href="Indian Stocks.html" class="image fit"><img src="../images/Indian Stocks.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Indian Stocks.html"><h4>Indian stocks extend gains</h4>
+											<p>
+												Indian Shares headed towards second session of mild gains
+											</p></a>
+										</div>
+									</div>
+									<div class="row 50%">
+										<div class="4u">
+											<a href="Tata Motors.html" class="image fit"><img src="../images/Tata Motors.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Tata Motors.html"><h4>Tata Motors Q2 loss of Rs 430cr</h4>
+											<p>
+												Tata Motors posted a huge loss as Tianjin Port blast hits JLR
+											</p></a>
+										</div>
+									</div>
+									<div class="row 50%">
+										<div class="4u">
+											<a href="Winter Stocks.html" class="image fit"><img src="../images/Winter.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Winter Stocks.html"><h4>Winter stocks forecast</h4>
+											<p>
+												A chance of a stock market spike
+											</p></a>
+										</div>
+									</div>
+									<div class="row 50%">
+										<div class="4u">
+											<a href="Gold.html" class="image fit"><img src="../images/Gold.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Gold.html"><h4>Gold price plunges towards 5 year lows</h4>
+											<p>
+												Elliott Wave analysis suggests more losses to come
+											</p></a>
+										</div>
+									</div>
+									<div class="row 50% no-collapse">
+										<div class="4u">
+											<a href="Bihar.html" class="image fit"><img src="../images/Bihar.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Bihar.html"><h4>Bihar poll results may turn stock markets volatile</h4>
+											<p>
+												Experts predict a knee-jerk downward move very soon
+											</p></a>
+										</div>
+									</div>
+									<footer>
+										<a href="../news.html" class="button" style="width: 100px">Read More</a>
+									</footer>
+								</section>
+							</div>
+							<div class="8u 12u(mobile) important(mobile)" id="content">
+								<article id="main">
+									<header>
+										<h2><a href="#">US dollar breaks a 12-year high</a></h2>
+										<h3>But is this momentum guaranteed?</h3>
+									</header>
+									<a href="#" class="image featured"><img src="../images/Dollar.jpg" height=300px alt="" /></a>
+									<p>Eight months of congestion have been brought to a dramatic end this past week as the US Dollar mounted an impressive rally in the aftermath of the October labor report. For the trader waiting patiently for progress, this may offer enough evidence to reestablish bullish positions waylaid earlier in the year when the record-breaking 10-month climb stalled. Those leaning on fundamentals can make the argument that a renewed run is warranted given the widening monetary policy gap between the Fed and its peers. However, traders should be mindful of a few inevitable contingencies: the rise of risk aversion and the inevitable limit of a disparate policy bearing.</p>
+									<p>Up until a few weeks ago, the markets were stocked with skeptics. Having seen economic data moderate, global policy groups lament a future where rates were off zero and a bout of capital market volatility; investors were confident that the Federal Reserve would not be able to pursue the ‘normalization’ policy it had warned was impending for months. Those expectations – some would say ‘hopes’ – are all but deflated now. While the labor report from this past week was a strong contributor to the change in sentiment, the view has been shifting for a few weeks before the NFPs. A swell in the implied rates in Fed Funds futures show the response to persistent central bank rhetoric, steadying markets and improved data.</p>
+									<p>For the lingering doubters, the October labor data was hard to ignore. The payroll beat was substantial enough (86,000 jobs consensus forecast) that its typically-isolated contribution to volatility garnered more permanence. It was the statistics closer to the Fed’s policy mandates, however, that have truly changed the rate forecast. The unemployment rate dropped to a seven-year low 5.0 percent (as expected). The revelatory facet of the report was the wage measure. The 2.5 percent pace of growth was the fastest in six years.</p>
+									<p>The jobless rate has met and surpassed targets that were imposed and removed. It has long been the absence of inflation pressures which has prevented the central bank from normalizing the exceptionally accommodative policy. The market favors the CPI and the Fed unofficially tacks the PCE statistics, but wages represent a virtuous and upstream inflation source. Seeing light in this tunnel can supply the ‘expectations’ for price pressures to rise more broadly through the foreseeable future. As per many Fed officials’ warning, they will start tightening when inflation is expected – not when it is fully realized, as that would be too late.</p>
+									<p>Now that we have seen rate speculation soar and the Dollar break to 12-year highs, many will simply presume the currency to continue rising under its own speculative momentum. However, we should be more circumspect of the currency’s prospects. While the Dollar enjoys a palpable advantage over its counterparts for its monetary policy bearing, a considerable premium has already been afforded to it for its hawkish standing. This doesn’t mean there isn’t more to be squeezed out of this theme, but it still requires some degree of support to extend.</p>
+										
+								</article>
+							</div>
+						</div>
+						<hr />
+						
+					</div>

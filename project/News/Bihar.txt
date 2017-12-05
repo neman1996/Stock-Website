@@ -1,0 +1,77 @@
+					<div class="container">
+						<div class="row 200%">
+							<div class="4u 12u(mobile)" id="sidebar">
+								<section>
+									<header>
+										<h3><a href="../news.html"></b><h3>News</h3></b></a></h3>
+									</header>
+									<div class="row 50%">
+										<div class="4u">
+											<a href="Indian Stocks.html" class="image fit"><img src="../images/Indian Stocks.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Indian Stocks.html"><h4>Indian stocks extend gains</h4>
+											<p>Indian Shares headed towards second session of mild gains</p></a>
+										</div>
+									</div>
+									<div class="row 50%">
+										<div class="4u">
+											<a href="Tata Motors.html" class="image fit"><img src="../images/Tata Motors.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Tata Motors.html"><h4>Tata Motors Q2 loss of Rs 430cr</h4>
+											<p>Tata Motors posted a huge loss as Tianjin Port blast hits JLR</p></a>
+										</div>
+									</div>
+									<div class="row 50%">
+										<div class="4u">
+											<a href="Winter Stocks.html" class="image fit"><img src="../images/Winter.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Winter Stocks.html"><h4>Winter stocks forecast</h4>
+											<p>A chance of a stock market spike</p></a>
+										</div>
+									</div>
+									<div class="row 50%">
+										<div class="4u">
+											<a href="Gold.html" class="image fit"><img src="../images/Gold.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Gold.html"><h4>Gold price plunges towards 5 year lows</h4>
+											<p>Elliott Wave analysis suggests more losses to come</p></a>
+										</div>
+									</div>
+									<div class="row 50% no-collapse">
+										<div class="4u">
+											<a href="Dollar.html" class="image fit"><img src="../images/Dollar.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Dollar.html"><h4>US dollar breaks a 12-year high</h4>
+											<p>But is this momentum guaranteed?</p></a>
+										</div>
+									</div>
+									<footer>
+										<a href="../news.html" class="button" style="width: 100px">Read More</a>
+									</footer>
+								</section>
+							</div>
+							<div class="8u 12u(mobile) important(mobile)" id="content">
+								<article id="main">
+									<header>
+										<h2><a href="#">Bihar poll results may turn stock markets volatile</a></h2>
+										<h3>Experts predict a knee-jerk downward move very soon</h3>
+									</header>
+									<a href="#" class="image featured"><img src="../images/Bihar.jpg" alt="" /></a>
+									<p><b>NEW DELHI:</b> With the BJP-led NDA getting trounced in Bihar assembly polls, the stock market is expected to turn volatile, with experts anticipating a knee-jerk downward move tomorrow.</p>
+									<p>Besides the election results of politically-important state, the last leg of quarterly earnings will have a bearing on stock-specific trading during the Diwali-shortened week, as per the analysts.</p> 
+									<p>"The market was building on this outcome over the week gone by, with Nifty slipping below 8,000. We could see a knee-jerk reaction tomorrow and then a phase of recovery and consolidation over the Diwali-shortened week," Centrum Broking CEO K Sandeep Nayak said. </p>
+									<p>Victory of Nitish Kumar-led Grand Alliance, comprising of JD9U), RJD and Congress, in Bihar is expected to have a bearing on the economic reform agenda of the BJP-led NDA government at the Centre as well as it does not have majority in the upper house of the Parliament. </p>
+									<p>"With Bihar behind us, markets would focus on the domestic front on the progress of GST and other pending Bills in the winter session of Parliament and the ask of the government on this front now stands elevated. On the international front, the market would keenly watch the US Fed's rate hike commentary/action," Nayak added. </p>
+									<p>"Now, we will be seeing market reaction on the Bihar election result in early trade on Monday and that would set the tone for the rest of the session," Religare Securities President, Retail Distribution, Jayant Manglik said. Over the past week, the BSE benchmark Sensex had fallen by 391.59 points to 26,265.24. </p>
+								</article>
+							</div>
+						</div>
+						<hr />
+					</div>
+
+				</div>

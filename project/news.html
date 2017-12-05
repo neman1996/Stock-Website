@@ -1,0 +1,182 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>StockMantra</title>
+		<link rel="icon" href="images/logo.ico" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<script type="text/javascript" src="assets/js/jquery.js"></script>
+		<script type="text/javascript">
+			$("document").ready(init);
+			function init(){
+			
+				$.get("http://localhost/project/rssnews.php", function(data) {
+					var $xml = $(data);
+					$xml.find("item").each(function() {
+						var $this = $(this)
+						anchor = document.createElement("a")
+						anchor.href = $this.find("link").text()
+						anchor.innerHTML = $this.find("title").text()+" | "
+						document.getElementById("rssfeed").appendChild(anchor)
+							/*item = {
+								title: $this.find("title").text(),
+								link: $this.find("link").text(),
+								description: $this.find("description").text(),
+								pubDate: $this.find("pubDate").text(),
+								author: $this.find("author").text()
+						}*/
+						//Do something with item here...
+						
+					});
+				});
+				}
+
+
+</script>
+	</head>
+	<body class="no-sidebar" style="background-color:white;">
+		<div id="page-wrapper">
+				<div id="header">
+						<div class="inner">
+							<header>
+								<h1><a href="index.html" id="logo" style="color:white;">Stock Mantra</a></h1>
+							</header>
+						</div>
+						<nav id="nav">
+							<ul>
+								<li><a href="index.html">Home</a></li>
+								<li><a href="news.html">News</a></li>
+								<li><a href="livestocks.html">Live Stocks</a></li>
+								<li><a href="trade.html">Trade Stocks</a></li>
+                                </ul>
+                        </nav>
+				</div>
+
+				<section id="features" class="container special">
+						<header>
+							<h2>Latest News</h2>
+						</header>
+						<div style="font-weight:bold"><marquee id="rssfeed"></marquee></div>
+						<div class="row">
+							<article class="4u 12u(mobile) special">
+								<a href="News/Indian Stocks.html" class="image featured"><img src="images/Indian Stocks.jpg" alt="" /></a>
+							<header>
+								<h3><a href="News/Indian Stocks.html">Indian stocks extend gains</h3>
+							</header>
+							<p>Indian Shares headed towards second session of mild gains</p></a>
+                            </article>
+							
+							<article class="4u 12u(mobile) special">
+								<a href="News/Tata Motors.html" class="image featured"><img src="images/Tata Motors.jpg" alt="" /></a>
+							<header>
+								<h3><a href="News/Tata Motors.html">Tata Motors in loss</h3>
+							</header>
+							<p>Tata Motors posted a huge loss as Tianjin Port blast hits JLR</p></a>
+							</article>
+							
+							<article class="4u 12u(mobile) special">
+								<a href="News/Winter Stocks.html" class="image featured"><img src="images/Winter.jpg" alt="" /></a>
+							<header>
+								<h3><a href="#">Winter stocks forecast</h3>
+							</header>
+							<p>A chance of a stock market spike, Stay tuned for updates </p></a>
+							</article>
+							</div>
+							
+							<div class="row">
+							<article class="4u 12u(mobile) special" >
+								<a href="News/Gold.html" class="image featured"><img src="images/Gold.jpg" alt="" /></a>
+							<header>
+								<h3><a href="#">Gold price plunges</h3>
+							</header>
+							<p>Elliott Wave analysis suggests more losses to come</p></a>
+							</article>
+							
+							<article class="4u 12u(mobile) special">
+								<a href="News/Dollar.html" class="image featured"><img src="images/Dollar.jpg" alt="" /></a>
+							<header>
+								<h3><a href="News/Dollar.html">US dollar goes high</h3>
+							</header>
+							<p>Experts ask Is this momentum guaranteed?</p></a>
+							</article>
+							
+							<article class="4u 12u(mobile) special">
+								<a href="News/Bihar.html" class="image featured"><img src="images/Bihar.jpg" alt="" /></a>
+							<header>
+								<h3><a href="News/Bihar.html">Bihar Elections</h3>
+							</header>
+							<p>Bihar poll results may turn stock markets volatile</p></a>
+							</article>
+							</div>
+							
+							<div class="row">
+							<article class="4u 12u(mobile) special" >
+								<a href="News/Market.html" class="image featured"><img src="images/Market.jpg" alt="" /></a>
+							<header>
+								<h3><a href="News/Market.html">Tumbling stock prices</h3>
+							</header>
+							<p>Market investors poorer by Rs 4.4 lakh cr so far this fiscal</p></a>
+							</article>
+							
+							<article class="4u 12u(mobile) special">
+							<a href="News/Taiwan.html" class="image featured"><img src="images/Taiwan.jpg" alt="" /></a>
+							<header>
+								<h3><a href="News/Taiwan.html">Taiwan stocks rise</h3>
+							</header>
+							<p>After the historic meeting between Ma Ying-jeou and Xi Jinping</p></a>
+							</article>
+							
+							<article class="4u 12u(mobile) special">
+								<a href="News/Wallstreet.html" class="image featured"><img src="images/Wallstreet.jpg" alt="" /></a>
+							<header>
+								<h3><a href="News/Wallstreet.html">Weakened prices</h3>
+							</header>
+							<p>Asia wobbles after wall street hit by crude slump</p></a>
+							</article>
+						</div>
+						</section>
+			<!-- Footer -->
+				<div id="footer">
+					<div class="container">
+						<div class="row">
+							<div class="12u">
+									<section class="contact">
+										<header>
+											<h3>Have any Questions ?</h3>
+										</header>
+										<p><a href="contact.html">Contact Us</a></p>
+										<ul class="icons">
+											<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+											<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+											<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+											<li><a href="#" class="icon fa-pinterest"><span class="label">Pinterest</span></a></li>
+											<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
+											<li><a href="#" class="icon fa-linkedin"><span class="label">Linkedin</span></a></li>
+										</ul>
+									</section>
+
+									<div class="copyright">
+										<ul class="menu">
+											<li><a href="index.html">StockMantra </a>&copy; 2015. All rights reserved.</li>
+										</ul>
+									</div>
+
+							</div>
+
+						</div>
+					</div>
+				</div>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.onvisible.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

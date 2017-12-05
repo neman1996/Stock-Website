@@ -1,0 +1,152 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>StockMantra</title>
+		<link rel="icon" href="images/logo.ico" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	
+	<body class="no-sidebar" onload="current()">
+		<div id="page-wrapper">
+				<div id="header"> 
+						<div class="inner">
+							<header>
+								<h1><a href="index.html" id="logo" style="color:white;">Stock Mantra</a></h1>
+							</header>
+						</div>
+						<nav id="nav">
+							<ul>
+								<li><a href="index.html">Home</a></li>
+								<li><a href="news.html">News</a></li>
+								<li><a href="livestocks.html">Live Stocks</a></li>
+								<li><a href="trade.html">Trade Stocks</a></li>
+                                </ul>
+                        </nav>
+				</div>
+
+			<!-- Main -->
+			
+			<div class="wrapper style1">
+
+					<section id="features" class="container special">
+						<header>
+							<h2>Stock Trading</h2>
+						</header>
+						<div class="row">
+							<article class="4u 12u(mobile) special" >
+								<a href=""><canvas id="nifty" width="350px" height="260px"></canvas></a>
+                            </article>
+							
+							<article class="4u 12u(mobile) special">
+								<a href=""><canvas id="sensex" width="350px" height="260px"></canvas></a>
+							</article>
+							
+							<article class="4u 12u(mobile) special">
+								<a href=""><canvas id="dax" width="350px" height="260px"></canvas></a>
+							</article>
+						</div>
+						<div class="row">
+							<article class="4u 12u(mobile) special">
+							<h3>Current Value: Rs.<span id="nifty_value">100</span></h3>	
+							<form action="buy_nifty.php" method="post">
+							<label>No. of Shares:<input type="text" name="stocknifty" placeholder="Buy Nifty"></input></label>
+							<input type="submit" value="Buy Now"></input>
+							</form>	
+                            </article>
+							
+							<article class="4u 12u(mobile) special">
+							<h3>Current Value: Rs.<span id="sensex_value">100</span></h3>	
+							<form action="buy_sensex.php" method="post">
+							<label>No. of Shares:<input type="text" name="stocksensex" placeholder="Buy Sensex"></input></label>
+							<input type="submit" value="Buy Now"></input>
+							</form>		
+							</article>
+							
+							
+							<article class="4u 12u(mobile) special">
+							<h3>Current Value: Rs.<span id="dax_value">100</span></h3>	
+							<form action="buy_dax.php" method="post">
+							<label>No. of Shares:<input type="text" name="stockdax" placeholder="Buy Dax"></input></label>
+							<input type="submit" value="Buy Now"></input>
+							</form>		
+							</article>
+						</div>
+						
+						<div class="row">
+							<article class="4u 12u(mobile) special">
+							<h3>Current Value: Rs.<span id="nifty_sellvalue">100</span></h3>	
+							<form action="sell_nifty.php" method="post">
+							<label>No. of Shares:<input type="text" name="stocksellnifty" placeholder="Sell Nifty"></input></label>
+							<input type="submit" value="Sell Now"></input>
+							</form>	
+                            </article>
+							
+							<article class="4u 12u(mobile) special">
+							<h3>Current Value: Rs.<span id="sensex_sellvalue">100</span></h3>	
+							<form action="sell_sensex.php" method="post">
+							<label>No. of Shares:<input type="text" name="stocksellsensex" placeholder="Sell Sensex"></input></label>
+							<input type="submit" value="Sell Now"></input>
+							</form>		
+							</article>
+							
+							
+							<article class="4u 12u(mobile) special">
+							<h3>Current Value: Rs.<span id="dax_sellvalue">100</span></h3>	
+							<form action="sell_dax.php" method="post">
+							<label>No. of Shares:<input type="text" name="stockselldax" placeholder="Sell Dax"></input></label>
+							<input type="submit" value="Sell Now"></input>
+							</form>		
+							</article>
+						</div>
+					</section>
+
+				</div>
+				</section>
+				
+			<!-- Footer -->
+				<div id="footer">
+					<div class="container">
+						<div class="row">
+							<div class="12u">
+									<section class="contact">
+										<header>
+											<h3>Have any Questions ?</h3>
+										</header>
+										<p><a href="contact.html">Contact Us</a></p>
+										<ul class="icons">
+											<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+											<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+											<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+											<li><a href="#" class="icon fa-pinterest"><span class="label">Pinterest</span></a></li>
+											<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
+											<li><a href="#" class="icon fa-linkedin"><span class="label">Linkedin</span></a></li>
+										</ul>
+									</section>
+
+									<div class="copyright">
+										<ul class="menu">
+											<li><a href="index.html">StockMantra </a>&copy; 2015. All rights reserved.</li>
+										</ul>
+									</div>
+
+							</div>
+
+						</div>
+					</div>
+				</div>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.onvisible.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+			<script src="assets/js/stock.js"></script>
+
+	</body>
+</html>

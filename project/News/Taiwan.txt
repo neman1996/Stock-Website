@@ -1,0 +1,90 @@
+<div class="container">
+						<div class="row 200%">
+							<div class="4u 12u(mobile)" id="sidebar">
+								<section>
+									<header>
+										<h3><a href="../news.html"></b><h3>News</h3></b></a></h3>
+									</header>
+									<div class="row 50%">
+										<div class="4u">
+											<a href="Indian Stocks.html" class="image fit"><img src="../images/Indian Stocks.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Indian Stocks.html"><h4>Indian stocks extend gains</h4>
+											<p>
+												Indian Shares headed towards second session of mild gains
+											</p></a>
+										</div>
+									</div>
+									<div class="row 50%">
+										<div class="4u">
+											<a href="Tata Motors.html" class="image fit"><img src="../images/Tata Motors.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Tata Motors.html"><h4>Tata Motors Q2 loss of Rs 430cr</h4>
+											<p>
+												Tata Motors posted a huge loss as Tianjin Port blast hits JLR
+											</p></a>
+										</div>
+									</div>
+									<div class="row 50%">
+										<div class="4u">
+											<a href="Winter Stocks.html" class="image fit"><img src="../images/Winter.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Winter Stocks.html"><h4>Winter stocks forecast</h4>
+											<p>
+												A chance of a stock market spike
+											</p></a>
+										</div>
+									</div>
+									<div class="row 50%">
+										<div class="4u">
+											<a href="Gold.html" class="image fit"><img src="../images/Gold.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Gold.html"><h4>Gold price plunges towards 5 year lows</h4>
+											<p>
+												Elliott Wave analysis suggests more losses to come
+											</p></a>
+										</div>
+									</div>
+									<div class="row 50% no-collapse">
+										<div class="4u">
+											<a href="Dollar.html" class="image fit"><img src="../images/Dollar.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Dollar.html"><h4>US dollar breaks a 12-year high</h4>
+											<p>
+												But is this momentum guaranteed?
+											</p></a>
+										</div>
+									</div>
+									<footer>
+										<a href="../news.html" class="button" style="width: 100px">Read More</a>
+									</footer>
+								</section>
+							</div>
+							<div class="8u 12u(mobile) important(mobile)" id="content">
+								<article id="main">
+									<header>
+										<h2><a href="#">Taiwan stocks rise</a></h2>
+										<p>
+											This rise was seen after the historic meeting between Ma Ying-jeou and Xi Jinping
+										</p>
+									</header>
+									<a href="#" class="image featured"><img src="../images/Taiwan.jpg" height=300px alt="" /></a>
+									<p><b>TAIPEI:</b> Taiwan stocks rose on Monday after leaders of Taiwan and China met for the first time in more than six decades at the weekend, led by gains in heavyweights such as TSMC. </p>
+									<p>As of 1:31 GMT, the main TAIEX index rose 0.3 per cent, to 8,715.02 points, after closing at 8,693.57 points in the previous session. </p>
+									<p>The electronics subindex rose 0.3 per cent, while the financials subindex gained 0.4 per cent. </p>
+									<p>Taiwan Semiconductor Manufacturing Co (TSMC), the world's top contract chip maker, added 1.8 per cent. Mediatek, which is Taiwan's biggest chip design house and a major player in the China market, rose 0.5 per cent. 
+
+The Taiwan dollar firmed T$0.085 to T$32.645 per US dollar. </p>
+
+
+								</article>
+							</div>
+						</div>
+						<hr />
+						
+					</div>

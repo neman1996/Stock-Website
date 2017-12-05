@@ -1,0 +1,94 @@
+<div class="container">
+						<div class="row 200%">
+							<div class="4u 12u(mobile)" id="sidebar">
+								<section>
+									<header>
+										<h3><a href="../news.html"></b><h3>News</h3></b></a></h3>
+									</header>
+									<div class="row 50%">
+										<div class="4u">
+											<a href="Indian Stocks.html" class="image fit"><img src="../images/Indian Stocks.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Indian Stocks.html"><h4>Indian stocks extend gains</h4>
+											<p>
+												Indian Shares headed towards second session of mild gains
+											</p></a>
+										</div>
+									</div>
+									<div class="row 50%">
+										<div class="4u">
+											<a href="Tata Motors.html" class="image fit"><img src="../images/Tata Motors.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Tata Motors.html"><h4>Tata Motors Q2 loss of Rs 430cr</h4>
+											<p>
+												Tata Motors posted a huge loss as Tianjin Port blast hits JLR
+											</p></a>
+										</div>
+									</div>
+									<div class="row 50%">
+										<div class="4u">
+											<a href="Winter Stocks.html" class="image fit"><img src="../images/Winter.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Winter Stocks.html"><h4>Winter stocks forecast</h4>
+											<p>
+												A chance of a stock market spike
+											</p></a>
+										</div>
+									</div>
+									<div class="row 50%">
+										<div class="4u">
+											<a href="Gold.html" class="image fit"><img src="../images/Gold.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Gold.html"><h4>Gold price plunges towards 5 year lows</h4>
+											<p>
+												Elliott Wave analysis suggests more losses to come
+											</p></a>
+										</div>
+									</div>
+									<div class="row 50% no-collapse">
+										<div class="4u">
+											<a href="Dollar.html" class="image fit"><img src="../images/Dollar.jpg" alt="" /></a>
+										</div>
+										<div class="8u">
+											<a href="Dollar.html"><h4>US dollar breaks a 12-year high</h4>
+											<p>
+												But is this momentum guaranteed?
+											</p></a>
+										</div>
+									</div>
+									<footer>
+										<a href="../news.html" class="button" style="width: 100px">Read More</a>
+									</footer>
+								</section>
+							</div>
+							<div class="8u 12u(mobile) important(mobile)" id="content">
+								<article id="main">
+									<header>
+										<h2><a href="#">Oil prices remain near 2-month low</a></h2>
+										<p>
+											The supplies still far outstrip the demand
+										</p>
+									</header>
+									<a href="#" class="image featured"><img src="../images/Oil.jpg" height=300px alt="" /></a>
+									<p>Oil prices edged away from over two-month lows on Thursday after a sharp slide on concerns the market would take much longer than many anticipated to rebalance as supplies far outstrip demand. </p>
+									<p>US crude futures were at $43.19 a barrel at 0605 GMT, up 26 cents from Wednesday when prices tumbled 3 per cent on the back of high production, rising US stocks and an economic slowdown in Asia. </p>
+									<p>Internationally traded Brent crude futures were at $46.05 a barrel, up 24 cents following a 3.4 per cent fall the previous day. </p>
+									<p>"Rising US inventories continue to remain a major theme driving crude oil prices ... Iraq is also increasing pressure on US shale producers. Iraq has loaded around 10 tankers in recent weeks to deliver crude to US ports in November," ANZ said.</p>
+									<p>Trading data showed there seemed to be shift in sentiment towards a lower oil price outlook, with 90,000 contracts having been sold down since this month, pulling open interest off a historic high as traders sell out of oil. </p>
+									<p>At the same time, oil producers have hiked their short positions in Brent futures to record highs of almost 1.3 million in a sign that they are increasingly hedging their production in expectation lower prices. </p>
+									<p>Beyond high production and brimming storage tanks, sentiment has also been hit by a growing sense that Asia's two biggest economies were slowing sharply after China's factory output growth eased further.</p>
+									<p>The slowdown in China has pulled down the entire commodity sector, with products like crude, copper, liquefied natural gas, coal and iron ore all down between 20 and 30 per cent this year, on a re-based basis valued at 100 points on January 1. </p>
+									<p>Adding to demand worries are fears that Japan's economy may have fallen into recession and that emerging markets across the world are struggling with a soaring debt mountain that threatens growth. </p>
+									<p>Yet some analysts said estimates of oversupply that usually range between 1.5 and 2.5 million barrels per day (bpd) for 2015 were likely overstated.</p>
+									<p>"By our estimates, the average 2015 oversupply is only 0.7-1.0 million bpd," said Adam Longson in a note to clients, adding that most other estimates failed to account for short-term stock changes, including strategic reserves, and seasonality for supply and demand balances.</p>
+									<p>"Intentional efforts to build or sell out government stockpiles that are not available to the market, nor included in demand figures, could help tighten the balance beyond headline implied stock changes," Longson said. </p>
+								</article>
+							</div>
+						</div>
+						<hr />
+						
+					</div>
